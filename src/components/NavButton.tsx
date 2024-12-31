@@ -1,4 +1,4 @@
-import { Icon, icons, LucideIcon } from "lucide-react";
+import { LucideIcon } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
