@@ -15,7 +15,7 @@ export function Header() {
 
                     <Link href="/home" className="flex justify-center items-center gap-2 ml-0" title="Home">
                         <h1 className="hidden sm:block text-xl font-bold m-0 mt-1">
-                            Alieu's Repair Shop
+                            Alieu&apos;s Repair Shop
                         </h1>
                     </Link>
                 </div>

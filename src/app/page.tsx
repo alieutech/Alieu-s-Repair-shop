@@ -7,7 +7,7 @@ export default function Home() {
       <div className="flex flex-col gap-6 p-12 rounded-xl bg-black/90 w-4/5 
       sm:max-w-96 mx-auto text-white sm:text-2xl">
         <h1 className="text-4xl font-bold">
-          Alieu's Repair Shop
+          Alieu&apos;s Repair Shop
           </h1>
         <address>
           Gambia, Abuko

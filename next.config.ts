@@ -21,7 +21,7 @@ silent: !process.env.CI,
 // https://docs.sentry.io/platforms/javascript/guides/nextjs/manual-setup/
  // An auth token is required for uploading source maps.
 
-// authToken: process.env.SENTRY_AUTH_TOKEN,
+authToken: process.env.SENTRY_AUTH_TOKEN,
 
 // Upload a larger set of source maps for prettier stack traces (increases build time)
 widenClientFileUpload: true,
