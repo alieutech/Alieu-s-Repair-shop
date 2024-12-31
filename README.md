@@ -9,12 +9,12 @@ Mobile-Friendly Design: Responsive layouts ensure accessibility across devices.
 Optimized Performance: Leveraging Next.js for fast loading and SEO optimization.
 ## Getting Started
 
+Open [https://alieu-s-repair-shop.vercel.app/home] to view the project live result.
+
 First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
 # or
 pnpm dev
 # or
