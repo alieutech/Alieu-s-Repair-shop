@@ -1,5 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Project Description: Alieu's Repair Shop
+Alieu's Repair Shop is a modern, full-stack web application designed to streamline repair service management. Built with Next.js for its robust server-side rendering and dynamic routing capabilities, and styled using Tailwind CSS for a sleek, responsive user interface, this project offers an efficient solution for managing repair requests, tracking service progress, and enhancing customer experience.
 
+## Features:
+Service Request Management: Customers can create, view, and manage repair requests effortlessly.
+Admin Dashboard: Admins can oversee repair jobs, assign tasks, and monitor progress.
+Real-Time Updates: Dynamic updates to repair statuses using Next.js API routes.
+Mobile-Friendly Design: Responsive layouts ensure accessibility across devices.
+Optimized Performance: Leveraging Next.js for fast loading and SEO optimization.
 ## Getting Started
 
 First, run the development server:
